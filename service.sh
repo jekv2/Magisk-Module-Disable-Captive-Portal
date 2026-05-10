@@ -1,4 +1,7 @@
 #!/system/bin/sh
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+#!/system/bin/sh
 
 # Disable captive portal detection
 settings put global captive_portal_detection_enabled 0
