@@ -1,0 +1,7 @@
+id=disable_captive_portal
+name=Disable Captive Portal
+version=1.0
+versionCode=1
+author=PowerUser
+description=Disables captive portal detection and X icon, redirects validation to localhost
+minMagisk=23000
