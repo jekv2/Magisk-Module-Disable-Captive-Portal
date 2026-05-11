@@ -1,6 +1,5 @@
 What the module does (disable captive portal, redirect validation to localhost)
-How to install it (Magisk → Modules → Install from storage → reboot)
-Android version compatibility (you tested on 11, mention that)
-Optional notes (like the 204 server for strict privacy)
+Magisk → Modules → Install from storage → reboot)
+Tested on Android 11, Magisk 30.7.
 
-Magisk module, disable captive portal, Android 11, root
+In compination of uninstalling com.google.androidcaptiveportallogin.
