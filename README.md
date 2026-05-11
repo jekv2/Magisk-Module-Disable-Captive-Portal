@@ -4,4 +4,4 @@ Magisk → Modules → Install from storage → reboot)
 
 Tested on Android 11, Magisk 30.7.
 
-In compination of uninstalling com.google.androidcaptiveportallogin.
+In combination of uninstalling com.google.androidcaptiveportallogin.
